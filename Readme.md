@@ -30,7 +30,7 @@ Once the program starts executing, the user is prompted to input the destination
 
 **What to do when running**
 When ruuning our file, you are expected to input the floor number of each passenger when prompted to.
-To enter the destination floor of the first passenger, enter any number from 0 to 8 after seeing the statement saying "starting elevator 2" like below
+To enter the destination floor of the first passenger, enter any number from 0 to 7 after seeing the statement saying "starting elevator 1" like below
 ![Screenshot from 2022-11-11 18-56-26](https://user-images.githubusercontent.com/90443474/201392485-5dd699e8-f39e-44c8-a517-b16b1211c6dd.png)
 
 To continue entering the passenger destination floor, you are required to input the destination floor after seeing the statement "elevator door closes.
