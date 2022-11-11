@@ -40,3 +40,10 @@ To continue entering the passenger destination floor, you are required to input 
 ![Screenshot from 2022-11-11 19-07-42](https://user-images.githubusercontent.com/90443474/201392794-54ec2c16-b809-4939-91ef-14b638e8d0dc.png)
 ![Screenshot from 2022-11-11 19-07-46](https://user-images.githubusercontent.com/90443474/201393000-3da25733-04ca-4403-989e-d7c67f7b37f9.png)
 ![Screenshot from 2022-11-11 19-00-40](https://user-images.githubusercontent.com/90443474/201393115-22b00a4c-004f-48e8-86c5-1d1ecc4ac0c5.png)
+
+**NOTE**
+The elevator only stops when you the user inputs a digit outside the range of 0 amd 7, so in the case you input maybe 9, you get an error message and to continue accessing the elevator, you have to rerun the program again using ./main
+THe elevator is not in session unless you input a destination floor and it continues to run so long the floor number entered is not outside the range of 0 and 7.
+If you would like to stop the running of the elevator, simply type Ctrl c and press enter.
+
+Authors: Moyosoreoluwa Weke, Ghea Sandrine, Maikem Victorine, Eleanor Wepngong
